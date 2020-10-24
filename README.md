@@ -1,6 +1,6 @@
 ## Hi There
 
-<img src="http://clipart-library.com/images/Bcgr6Xj7i.gif"></img>
+<img src="http://clipart-library.com/images/Bcgr6Xj7i.gif" height ="50px"></img>
 
 <!--
 
