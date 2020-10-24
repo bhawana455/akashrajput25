@@ -1,4 +1,7 @@
 ## Hi There
+
+<img src="http://clipart-library.com/images/Bcgr6Xj7i.gif"></img>
+
 <!--
 
 Here are some ideas to get you started:
